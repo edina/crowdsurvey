@@ -1,3 +1,7 @@
-_As a_ *project coordinator* 
-_I want to_ create a project
-_So that_ data collectors can capture observations with the app
+**As a** _project coordinator_
+
+ 
+**I want to** create a project
+
+
+**So that** _data collectors_ can capture observations with the app
