@@ -1,4 +1,4 @@
-**As a** _data collector_
+**As a** _volunteer_
 
 **I want to** access a project
 
